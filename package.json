@@ -2,7 +2,7 @@
   "name": "node-cached-stream",
   "version": "1.0.0",
   "description": "Cache any readable stream to disk",
-  "main": "index.js",
+  "main": "cached-stream.js",
   "directories": {
     "test": "test"
   },
